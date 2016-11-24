@@ -64,5 +64,8 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 
+# Xcode project
+*.xcodeproj
+
 # Keys
 Config/keys.json
