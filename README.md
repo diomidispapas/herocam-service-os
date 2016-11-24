@@ -32,9 +32,9 @@ The service has been tested on macOS and Ubuntu.
 
 
 
-## 📱 Client App
+## 📱 HeroCam App
 
-You can find the client-app available on the [ App Store](https://itunes.apple.com/us/app/herocam/id1078111204?ls=1&mt=8). 
+You can find the HeroCam app  [here](https://github.com/diomidispapas/herocam-app-os). The app is available on the [ App Store](https://itunes.apple.com/us/app/herocam/id1078111204?ls=1&mt=8). 
 
 ![Screen Shot 2016-11-24 at 1.39.14 PM](./Screenshots/Screen Shot 2016-11-24 at 1.39.14 PM.png)
 
