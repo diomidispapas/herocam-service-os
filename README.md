@@ -1,4 +1,4 @@
-# Herocam Service
+# Herocam Service ![swift 3](https://camo.githubusercontent.com/93de6573350b91e48ab570a4fe710e4e8baa38b8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f73776966742d332e302d627269676874677265656e2e737667)
 
 A basic Swift/Vapor webservice that is used by the [HeroCam app](https://herocamapp.github.io). The service is using the [Google Vision API](https://cloud.google.com/vision/). In order to run the service you need to make a free account and obtain a Google vision API secret key
 
