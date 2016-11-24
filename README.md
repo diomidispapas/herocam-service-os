@@ -29,3 +29,19 @@ or open it using Xcode and press run: (make sure that you have selected the App 
 ## 🔧 Compatibility
 
 The service has been tested on macOS and Ubuntu.
+
+
+
+## 📱 Client App
+
+You can find the client-app available on the [ App Store](https://herocamapp.github.io). 
+
+![Screen Shot 2016-11-24 at 1.39.14 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 1.39.14 PM.png)
+
+
+
+## 🌐 Test
+
+An example screenshot from Postman:
+
+![Screen Shot 2016-11-24 at 12.10.33 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 12.10.33 PM.png)
