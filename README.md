@@ -1,15 +1,31 @@
-# Basic Template
+# Herocam Service
 
-A basic vapor template for starting a new Vapor web application. If you're using vapor toolbox, you can use: `vapor new --template=basic`
+A basic Swift/Vapor webservice that is used by the [HeroCam app](https://herocamapp.github.io). The service is using the [Google Vision API](https://cloud.google.com/vision/). In order to run the service you need to make a free account and obtain a Google vision API secret key
 
-## 📖 Documentation
 
-Visit the Vapor web framework's [documentation](http://docs.vapor.codes) for instructions on how to use this package.
 
-## 💧 Community
+## 🔧 Build
 
-Join the welcoming community of fellow Vapor developers in [slack](http://vapor.team).
+In order to build the service you need to add the  `keys.json `  in the  `Config/ ` folder. The  `keys.json `  needs to have the following format.
+
+![Screen Shot 2016-11-24 at 12.32.13 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 12.32.13 PM.png)
+
+
+
+##  🏃 Run
+
+In order to run the server locally on localhost 8080:
+
+ `$ vapor build ` 
+
+` $ vapor run serve`
+
+or open it using Xcode and press run: (make sure that you have selected the App Scheme)
+
+` $ vapor xcode -y`
+
+
 
 ## 🔧 Compatibility
 
-This package has been tested on macOS and Ubuntu.
+The service has been tested on macOS and Ubuntu.
