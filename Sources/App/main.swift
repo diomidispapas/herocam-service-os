@@ -2,12 +2,13 @@ import Vapor
 
 let drop = Droplet()
 
-drop.get { req in
-    return try drop.view.make("welcome", [
-    	"message": drop.localization[req.lang, "welcome", "title"]
-    ])
+drop.group("v1") { v1 in
+    v1.get("version") { request in
+        return try JSON(node: [
+            "version": "1.0"
+            ])
+    }
+    v1.resource("detect_landmark", LandmarkController())
 }
-
-drop.resource("posts", PostController())
 
 drop.run()
