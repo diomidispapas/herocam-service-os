@@ -8,7 +8,7 @@ A basic Swift/Vapor webservice that is used by the [HeroCam app](https://herocam
 
 In order to build the service you need to add the  `keys.json `  in the  `Config/ ` folder. The  `keys.json `  needs to have the following format.
 
-![Screen Shot 2016-11-24 at 12.32.13 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 12.32.13 PM.png)
+![Screen Shot 2016-11-24 at 12.32.13 PM](/Users/diomidis.papas/Development/personal/herocam/herocam-service-os/Screenshots/Screen Shot 2016-11-24 at 12.32.13 PM.png)
 
 
 
@@ -36,7 +36,7 @@ The service has been tested on macOS and Ubuntu.
 
 You can find the client-app available on the [ App Store](https://herocamapp.github.io). 
 
-![Screen Shot 2016-11-24 at 1.39.14 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 1.39.14 PM.png)
+![Screen Shot 2016-11-24 at 1.39.14 PM](/Users/diomidis.papas/Development/personal/herocam/herocam-service-os/Screenshots/Screen Shot 2016-11-24 at 1.39.14 PM.png)
 
 
 
@@ -44,4 +44,4 @@ You can find the client-app available on the [ App Store](https://herocamapp.git
 
 An example screenshot from Postman:
 
-![Screen Shot 2016-11-24 at 12.10.33 PM](/Users/diomidis.papas/Desktop/Screen Shot 2016-11-24 at 12.10.33 PM.png)
+![Screen Shot 2016-11-24 at 12.10.33 PM](/Users/diomidis.papas/Development/personal/herocam/herocam-service-os/Screenshots/Screen Shot 2016-11-24 at 12.10.33 PM.png)
